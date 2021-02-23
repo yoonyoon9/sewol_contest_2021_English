@@ -68,6 +68,12 @@ mark {
   color: #000;
   background: #ff0;
 }
+
+/* text align */
+.text-align {
+  text-align: left;
+}
+
 small {
   font-size: 80%;
 }

@@ -262,6 +262,29 @@ p.description {
   color: #777777;
 }
 
+/* small video */
+.vid-title {
+  color: #fff;
+}
+
+.a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.sm-vid-title {
+  color: #fff;
+}
+
+/* small video title */
+ul.no-bullets {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin-left: 150px;
+  text-align: left;
+}
+
 a:hover,
 a:focus {
   text-decoration: none;
